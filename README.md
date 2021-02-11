@@ -1,5 +1,4 @@
 # Project-1
-DUMB
 Title: Relations between Marvel comic book creators and Marvel visual media
 
 Members: Ian Castro, Candi Shanks, Brook Miller
