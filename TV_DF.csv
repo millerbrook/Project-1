@@ -1,0 +1,412 @@
+Show ID,Show Name,Total Episode Count,Character ID,Character Name
+7623,The Amazing Spider-Man,14,196352,Peter Parker / Spider-Man
+7623,The Amazing Spider-Man,14,365202,Captain Barbera
+7623,The Amazing Spider-Man,14,365203,J. Jonah Jameson
+7623,The Amazing Spider-Man,14,365204,Rita Conway
+7623,The Amazing Spider-Man,14,365205,Aunt May
+7623,The Amazing Spider-Man,14,365206,Julie Masters
+2151,The Incredible Hulk,249,132893,Bruce Banner / Hulk
+2151,The Incredible Hulk,249,132892,Bruce Banner / Hulk
+2151,The Incredible Hulk,249,132894,Jack McGee
+1611,Spider-Man,260,100500,Peter Parker / Spider-Man
+8331,Blade,12,202575,Noah van Helsing
+8331,Blade,12,202576,Deacon Frost
+8331,Blade,12,202577,Blade
+31,Marvel's Agents of S.H.I.E.L.D.,136,6063,Agent Jemma Simmons
+31,Marvel's Agents of S.H.I.E.L.D.,136,181391,"Daisy ""Skye"" Johnson / Quake"
+31,Marvel's Agents of S.H.I.E.L.D.,136,6059,Agent Melinda May
+31,Marvel's Agents of S.H.I.E.L.D.,136,6058,Agent Phil Coulson
+31,Marvel's Agents of S.H.I.E.L.D.,136,6062,Agent Leo Fitz
+31,Marvel's Agents of S.H.I.E.L.D.,136,6225,"Alphonso ""Mack"" Mackenzie"
+31,Marvel's Agents of S.H.I.E.L.D.,136,268027,"Elena ""Yo-Yo"" Rodriguez"
+31,Marvel's Agents of S.H.I.E.L.D.,136,6060,Grant Ward
+31,Marvel's Agents of S.H.I.E.L.D.,136,478310,Deke Shaw
+31,Marvel's Agents of S.H.I.E.L.D.,136,124823,Lance Hunter
+31,Marvel's Agents of S.H.I.E.L.D.,136,6249,Bobbi Morse / Mockingbird
+31,Marvel's Agents of S.H.I.E.L.D.,136,104065,Lincoln Campbell
+31,Marvel's Agents of S.H.I.E.L.D.,136,270067,Holden Radcliffe
+31,Marvel's Agents of S.H.I.E.L.D.,136,614696,Sarge
+336,Marvel's Agent Carter,18,66891,Agent Peggy Carter
+336,Marvel's Agent Carter,18,66895,Daniel Sousa
+336,Marvel's Agent Carter,18,102436,Edwin Jarvis
+336,Marvel's Agent Carter,18,66893,Agent Jack Thompson
+336,Marvel's Agent Carter,18,66892,SSR Chief Roger Dooley
+1369,Marvel's Daredevil,39,93847,Matt Murdock / Daredevil
+1369,Marvel's Daredevil,39,93851,Karen Page
+1369,Marvel's Daredevil,39,93852,"Franklin ""Foggy"" Nelson"
+1369,Marvel's Daredevil,39,93856,Wilson Fisk / The Kingpin
+1369,Marvel's Daredevil,39,566031,"Rahul ""Ray"" Nadeem"
+1369,Marvel's Daredevil,39,160173,Frank Castle / The Punisher
+1369,Marvel's Daredevil,39,260670,Blake Tower
+1369,Marvel's Daredevil,39,93849,Vanessa Marianna
+1369,Marvel's Daredevil,39,566034,"Benjamin ""Dex"" Poindexter"
+1369,Marvel's Daredevil,39,93855,James Wesley
+1369,Marvel's Daredevil,39,160172,Elektra Natchios
+1369,Marvel's Daredevil,39,93850,Leland Owlsley
+1369,Marvel's Daredevil,39,93858,Ben Urich
+1369,Marvel's Daredevil,39,566030,Sister Maggie Grace
+1369,Marvel's Daredevil,39,93854,Claire Temple
+1370,Marvel's Jessica Jones,39,93859,Jessica Campbell Jones
+1370,Marvel's Jessica Jones,39,135015,"Patricia ""Trish"" Walker / Patsy"
+1370,Marvel's Jessica Jones,39,206937,Malcolm Ducasse
+1370,Marvel's Jessica Jones,39,135013,"Jeryn ""Jeri"" Hogarth"
+1370,Marvel's Jessica Jones,39,135016,Kilgrave / Kevin Thompson
+1370,Marvel's Jessica Jones,39,513299,Oscar Arocho
+1370,Marvel's Jessica Jones,39,513301,Alisa Jones
+1370,Marvel's Jessica Jones,39,206573,Will Simpson
+1370,Marvel's Jessica Jones,39,634104,Erik Gelden
+1370,Marvel's Jessica Jones,39,634106,Zaya Okonjo
+1370,Marvel's Jessica Jones,39,634131,Gregory Sallinger
+1370,Marvel's Jessica Jones,39,175107,Luke Cage
+1370,Marvel's Jessica Jones,39,445387,Inez Green
+1370,Marvel's Jessica Jones,39,135014,Hope Shlottmann
+1370,Marvel's Jessica Jones,39,634105,Kith Lyonne
+1370,Marvel's Jessica Jones,39,513300,Pryce Cheng
+2174,Marvel's Luke Cage,26,135024,Luke Cage
+2174,Marvel's Luke Cage,26,166616,"Mercedes ""Misty"" Knight"
+2174,Marvel's Luke Cage,26,170649,Mariah Dillard
+2174,Marvel's Luke Cage,26,170651,"Hernan ""Shades"" Alvarez"
+2174,Marvel's Luke Cage,26,166615,Claire Temple
+2174,Marvel's Luke Cage,26,538340,"John ""Bushmaster"" McIver"
+2174,Marvel's Luke Cage,26,538357,"Matilda ""Tilda"" Maybelline Johnson"
+2174,Marvel's Luke Cage,26,331685,"William ""Diamondback"" Stryker"
+2174,Marvel's Luke Cage,26,190946,"Cornell ""Cottonmouth"" Stokes"
+2174,Marvel's Luke Cage,26,336632,Blake Tower
+2174,Marvel's Luke Cage,26,538440,Colleen Wing
+2174,Marvel's Luke Cage,26,538450,Daniel Rand / Iron Fist
+6393,Legion,27,240948,David Haller
+6393,Legion,27,240951,"Sydney ""Syd"" Barrett"
+6393,Legion,27,249937,Kerry Loudermilk
+6393,Legion,27,378208,Cary Loudermilk
+6393,Legion,27,240949,Lenny Busker
+6393,Legion,27,240950,Melanie Bird
+6393,Legion,27,295996,Ptonomy Wallace / Mainframe
+6393,Legion,27,379904,Clark DeBussy
+6393,Legion,27,521288,Amahl Farouk / The Shadow King
+6393,Legion,27,295997,Amy Haller
+6393,Legion,27,388134,Oliver Bird
+6393,Legion,27,637699,Jia-yi / Switch
+2175,Marvel's Iron Fist,23,250546,Daniel Rand / Iron Fist
+2175,Marvel's Iron Fist,23,266324,Colleen Wing
+2175,Marvel's Iron Fist,23,273276,Joy Meachum
+2175,Marvel's Iron Fist,23,273277,Ward Meachum
+2175,Marvel's Iron Fist,23,395297,Davos / Steel Serpent
+2175,Marvel's Iron Fist,23,270132,Harold Meachum
+2175,Marvel's Iron Fist,23,555877,Mary Walker
+2175,Marvel's Iron Fist,23,394980,Claire Temple
+2175,Marvel's Iron Fist,23,555968,"Mercedes ""Misty"" Knight"
+2175,Marvel's Iron Fist,23,395199,Bakuto
+17184,The Defenders,132,581423,Lawrence Preston
+17184,The Defenders,132,581424,Kenneth Preston
+25948,The Gifted,29,391743,Caitlin Strucker
+25948,The Gifted,29,391745,Reed Strucker
+25948,The Gifted,29,391746,Clarice Ferguson / Blink
+25948,The Gifted,29,391747,Marcos Diaz / Eclipse
+25948,The Gifted,29,391749,Lauren Strucker
+25948,The Gifted,29,391750,Lorna Dane / Polaris
+25948,The Gifted,29,391751,John Proudstar / Thunderbird
+25948,The Gifted,29,391752,Andy Strucker
+25948,The Gifted,29,391748,Jace Turner
+25948,The Gifted,29,475354,Esmé Frost
+25948,The Gifted,29,486696,Phoebe Frost
+25948,The Gifted,29,486697,Sophie Frost
+25948,The Gifted,29,552784,Reeva Payge
+51751,The Devil Punisher,20,801601,Zhong Kui
+51751,The Devil Punisher,20,801602,Meng Po
+51751,The Devil Punisher,20,801603,Lu Bo Ya
+20172,Marvel's Runaways,33,377175,Nico Minoru
+20172,Marvel's Runaways,33,377176,Karolina Dean
+20172,Marvel's Runaways,33,377177,"Gertrude ""Gert"" Yorkes"
+20172,Marvel's Runaways,33,377178,Chase Stein
+20172,Marvel's Runaways,33,377179,Molly Hernandez
+20172,Marvel's Runaways,33,377174,Alex Wilder
+20172,Marvel's Runaways,33,388807,Stacey Yorkes
+20172,Marvel's Runaways,33,388804,Tina Minoru
+20172,Marvel's Runaways,33,388806,Dale Yorkes
+20172,Marvel's Runaways,33,388808,Leslie Dean
+20172,Marvel's Runaways,33,388810,Victor Stein
+20172,Marvel's Runaways,33,388812,Janet Stein
+20172,Marvel's Runaways,33,388802,Geoffrey Wilder
+20172,Marvel's Runaways,33,388805,Robert Minoru
+20172,Marvel's Runaways,33,388803,Catherine Wilder
+20172,Marvel's Runaways,33,388809,Frank Dean
+20172,Marvel's Runaways,33,453386,J. Jonah Jameson
+20172,Marvel's Runaways,33,580780,Xavin
+15307,Marvel's Cloak & Dagger,20,375720,Tandy Bowen / Dagger
+15307,Marvel's Cloak & Dagger,20,375723,Tyrone Johnson / Cloak
+15307,Marvel's Cloak & Dagger,20,382489,Adina Johnson
+15307,Marvel's Cloak & Dagger,20,530687,Detective Brigid O'Reilly / Mayhem
+15307,Marvel's Cloak & Dagger,20,382488,Melissa Bowen
+15307,Marvel's Cloak & Dagger,20,382500,Detective James Connors
+15307,Marvel's Cloak & Dagger,20,382492,Otis Johnson
+15307,Marvel's Cloak & Dagger,20,382494,Liam Walsh
+15307,Marvel's Cloak & Dagger,20,530688,Father Francis Delgado
+42012,Helstrom,10,663786,Daimon Helstrom
+42012,Helstrom,10,663787,Ana Helstrom
+42012,Helstrom,10,663788,Victoria Helstrom
+42012,Helstrom,10,663790,Dr. Louise Hastings
+42012,Helstrom,10,663791,Gabriella Rosetti
+42012,Helstrom,10,663789,Caretaker
+42012,Helstrom,10,663792,Chris Yen
+41748,WandaVision,9,617739,Scarlet Witch
+41748,WandaVision,9,617740,Vision
+41748,WandaVision,9,828866,Agnes
+41748,WandaVision,9,666329,Monica Rambeau / Geraldine
+41748,WandaVision,9,666331,Agent James E. Woo
+41748,WandaVision,9,666330,Dr. Darcy Lewis
+41748,WandaVision,9,829367,Sharon Davis / Mrs. Hart
+41748,WandaVision,9,836446,Pietro Maximoff / Quicksilver
+41748,WandaVision,9,829368,Todd Davis / Arthur Hart
+41749,The Falcon and The Winter Soldier,1,617741,Bucky Barnes / Winter Soldier
+41749,The Falcon and The Winter Soldier,1,617742,Sam Wilson / Falcon
+41749,The Falcon and The Winter Soldier,1,645208,Helmut Zemo
+41749,The Falcon and The Winter Soldier,1,666327,Sharon Carter
+41749,The Falcon and The Winter Soldier,1,666328,John Walker
+41007,Loki,1,598622,Loki
+41007,Loki,1,694336,TBA
+41007,Loki,1,698300,TBA
+41007,Loki,1,698301,TBA
+41007,Loki,1,819016,Kang
+14254,WHIH News Front,10,384022,Christine Everhart
+14254,WHIH News Front,10,384023,Will Adams
+23460,Marvel's Agents of S.H.I.E.L.D.: Slingshot,6,355736,"Elena ""Yo-Yo"" Rodriguez"
+23460,Marvel's Agents of S.H.I.E.L.D.: Slingshot,6,355743,Daisy Johnson / Quake
+23460,Marvel's Agents of S.H.I.E.L.D.: Slingshot,6,355745,Agent Melinda May
+23460,Marvel's Agents of S.H.I.E.L.D.: Slingshot,6,355738,Agent Phil Coulson
+23460,Marvel's Agents of S.H.I.E.L.D.: Slingshot,6,355740,Director Jeffrey Mace
+23460,Marvel's Agents of S.H.I.E.L.D.: Slingshot,6,355742,"Agent Alphonso ""Mack"" Mackenzie"
+23460,Marvel's Agents of S.H.I.E.L.D.: Slingshot,6,355746,Agent Leo Fitz
+23460,Marvel's Agents of S.H.I.E.L.D.: Slingshot,6,355747,Agent Jemma Simmons
+4240,The Fantastic Four,52,717978,Reed Richards / Mr. Fantastic
+4240,The Fantastic Four,52,717979,Invisible Woman / Invisible Girl
+4240,The Fantastic Four,52,717981,Benjamin J. Grimm / The Thing
+4240,The Fantastic Four,52,717984,Johnny Storm / The Human Torch
+4240,The Fantastic Four,52,718002,Alicia Masters
+19296,The New Fantastic Four,13,718149,Benjamin J. Grimm / The Thing
+19296,The New Fantastic Four,13,718150,Prof. Reed Richards / Mister Fantastic
+19296,The New Fantastic Four,13,718151,Narrator
+19296,The New Fantastic Four,13,718152,Invisible Woman / Invisible Girl
+19296,The New Fantastic Four,13,718153,H.E.R.B.I.E.
+18515,Spider-Woman,16,715573,Spider-Woman
+18515,Spider-Woman,16,715576,Jeff Hunt
+18515,Spider-Woman,16,715577,Billy Drew
+18515,Spider-Woman,16,715581,Announcer
+18515,Spider-Woman,16,715578,Chief Cooper
+18515,Spider-Woman,16,715580,Detective Miller
+18515,Spider-Woman,16,715582,Closing Narrator
+4052,Spider-Man and His Amazing Friends,24,172327,Peter Parker / Spider-Man
+4052,Spider-Man and His Amazing Friends,24,172328,Angelica Jones / Firestar
+4052,Spider-Man and His Amazing Friends,24,172329,Bobby Drake / Iceman
+4052,Spider-Man and His Amazing Friends,24,172331,Announcer
+4052,Spider-Man and His Amazing Friends,24,716658,Narrator
+472,X-Men,76,80502,Logan / Wolverine
+472,X-Men,76,80506,Professor X
+472,X-Men,76,80516,Cyclops
+472,X-Men,76,80501,Jubilee
+472,X-Men,76,80512,Ororo Munroe / Storm
+472,X-Men,76,80513,Rogue
+472,X-Men,76,80511,Dr. Hank McCoy / Beast
+472,X-Men,76,80508,Gambit
+472,X-Men,76,80503,Jean Grey
+4243,Iron Man,26,719697,Tony Stark / Iron Man
+4243,Iron Man,26,174219,Mandarin
+4243,Iron Man,26,174220,James Rhodes / War Machine
+4243,Iron Man,26,719707,Spider-Woman
+4243,Iron Man,26,719708,Scarlet Witch
+4243,Iron Man,26,719700,Hypnotia
+4243,Iron Man,26,720293,H.O.M.E.R.
+4243,Iron Man,26,719699,Dreadknight
+4243,Iron Man,26,719698,Whirlwind
+4243,Iron Man,26,719701,Blacklash
+4243,Iron Man,26,719702,Grey Gargoyle
+4243,Iron Man,26,720315,Firebrand
+4244,Silver Surfer,13,721152,Norrin Radd / Silver Surfer
+1529,Spider-Man Unlimited,13,99984,Peter Parker / Spider-Man
+8483,The Avengers: United They Stand,13,722441,Scott Lang / Ant-Man
+8483,The Avengers: United They Stand,13,722442,Janet van Dyne / The Wasp
+8483,The Avengers: United They Stand,13,722443,Clint Barton / Hawkeye
+8483,The Avengers: United They Stand,13,722444,Wonderman
+8483,The Avengers: United They Stand,13,722445,Tigra
+8483,The Avengers: United They Stand,13,722446,Sam Wilson / Falcon
+8483,The Avengers: United They Stand,13,722447,Vision
+8483,The Avengers: United They Stand,13,722448,Scarlet Witch
+8483,The Avengers: United They Stand,13,722481,Edwin Jarvis
+8483,The Avengers: United They Stand,13,722482,Raymond Sikorksy
+8483,The Avengers: United They Stand,13,722483,Ultron
+8483,The Avengers: United They Stand,13,722484,Computer
+1612,X-Men: Evolution,52,100513,Cyclops
+1612,X-Men: Evolution,52,100503,Kurt Wagner / Nightcrawler
+1612,X-Men: Evolution,52,100529,Jean Grey
+1612,X-Men: Evolution,52,754370,Kitty Pryde / Shadowcat
+1612,X-Men: Evolution,52,100528,Logan / Wolverine
+1612,X-Men: Evolution,52,100519,Rogue
+1612,X-Men: Evolution,52,100514,Ororo Munroe / Storm
+1612,X-Men: Evolution,52,100524,Spyke
+1612,X-Men: Evolution,52,786857,Dr. Hank McCoy / Beast
+4458,Spider-Man,13,731675,Peter Parker / Spider-Man
+4458,Spider-Man,13,731690,Mary Jane Watson
+4458,Spider-Man,13,731691,Harry Osborn
+4245,Fantastic Four: Worlds Greatest Heroes,26,718748,Reed Richards / Mr. Fantastic
+4245,Fantastic Four: Worlds Greatest Heroes,26,718749,Invisible Woman / Invisible Girl
+4245,Fantastic Four: Worlds Greatest Heroes,26,718750,Johnny Storm / The Human Torch
+4245,Fantastic Four: Worlds Greatest Heroes,26,718751,Benjamin J. Grimm / The Thing
+4245,Fantastic Four: Worlds Greatest Heroes,26,718752,H.E.R.B.I.E.
+4490,The Spectacular Spider-Man,26,175550,Peter Parker / Spider-Man
+4490,The Spectacular Spider-Man,26,175551,Gwen Stacy / Ghost Spider
+4490,The Spectacular Spider-Man,26,175552,Harry Osborn
+4490,The Spectacular Spider-Man,26,175553,Mary Jane Watson
+4490,The Spectacular Spider-Man,26,175554,Flash Thompson
+439,Wolverine and the X-Men,26,80155,Logan / Wolverine
+439,Wolverine and the X-Men,26,80157,Scott Summers / Cyclops
+439,Wolverine and the X-Men,26,80156,Dr. Hank McCoy / Beast
+439,Wolverine and the X-Men,26,80158,Emma Frost
+439,Wolverine and the X-Men,26,80159,Kitty Pryde / Shadowcat
+439,Wolverine and the X-Men,26,80161,Kurt Wagner / Nightcrawler
+439,Wolverine and the X-Men,26,80162,Bobby Drake / Iceman
+439,Wolverine and the X-Men,26,80165,Ororo Munroe / Storm
+439,Wolverine and the X-Men,26,728406,Warren Worthington III / Angel / Archangel
+6893,Iron Man: Armored Adventures,52,190346,Tony Stark / Iron Man
+6893,Iron Man: Armored Adventures,52,190347,Pepper Potts
+6893,Iron Man: Armored Adventures,52,190348,James Rhodes / War Machine
+26545,The Super Hero Squad Show,52,730360,Tony Stark / Iron Man
+26545,The Super Hero Squad Show,52,730363,Logan / Wolverine
+26545,The Super Hero Squad Show,52,730361,Bruce Banner / Hulk
+26545,The Super Hero Squad Show,52,730364,Thor
+26545,The Super Hero Squad Show,52,730365,Sam Wilson / Falcon
+26545,The Super Hero Squad Show,52,730366,Silver Surfer / Dark Surfer
+26545,The Super Hero Squad Show,52,731087,Scarlet Witch
+26545,The Super Hero Squad Show,52,730377,Reptil
+671,Avengers: Earth's Mightiest Heroes,52,87091,Tony Stark / Iron Man
+671,Avengers: Earth's Mightiest Heroes,52,87090,Janet van Dyne / The Wasp
+671,Avengers: Earth's Mightiest Heroes,52,734004,Captain America
+671,Avengers: Earth's Mightiest Heroes,52,87095,Thor
+671,Avengers: Earth's Mightiest Heroes,52,87089,Clint Barton / Hawkeye
+671,Avengers: Earth's Mightiest Heroes,52,87092,Bruce Banner / Hulk
+671,Avengers: Earth's Mightiest Heroes,52,734022,T'Challa / Black Panther
+671,Avengers: Earth's Mightiest Heroes,52,87096,Hank Pym / Yellowjacket
+671,Avengers: Earth's Mightiest Heroes,52,147217,Captain Marvel
+671,Avengers: Earth's Mightiest Heroes,52,147225,Vision
+671,Avengers: Earth's Mightiest Heroes,52,147222,Peter Parker / Spider-Man
+671,Avengers: Earth's Mightiest Heroes,52,159616,James Rhodes / War Machine
+671,Avengers: Earth's Mightiest Heroes,52,734521,Benjamin J. Grimm / The Thing
+671,Avengers: Earth's Mightiest Heroes,52,159617,Luke Cage
+671,Avengers: Earth's Mightiest Heroes,52,159619,Daniel Rand / Iron Fist
+671,Avengers: Earth's Mightiest Heroes,52,159620,Logan / Wolverine
+8484,Black Panther,12,203260,T'Challa / Black Panther
+8484,Black Panther,12,203261,Ororo Munroe / Storm
+3114,Marvel's Ultimate Spider-Man,104,167416,Peter Parker / Spider-Man
+2540,Marvel's Avengers Assemble,126,149648,Captain America
+2540,Marvel's Avengers Assemble,126,149649,Tony Stark / Iron Man
+2540,Marvel's Avengers Assemble,126,149653,Clint Barton / Hawkeye
+2540,Marvel's Avengers Assemble,126,149650,Thor
+2540,Marvel's Avengers Assemble,126,149651,Bruce Banner / Hulk
+2540,Marvel's Avengers Assemble,126,149652,Sam Wilson / Falcon
+2540,Marvel's Avengers Assemble,126,149654,Black Widow
+2540,Marvel's Avengers Assemble,126,433844,T'Challa / Black Panther
+2540,Marvel's Avengers Assemble,126,738325,Scott Lang / Ant-Man
+2540,Marvel's Avengers Assemble,126,748466,Shuri
+2540,Marvel's Avengers Assemble,126,744136,Captain Marvel
+2540,Marvel's Avengers Assemble,126,744386,Captain Marvel
+2540,Marvel's Avengers Assemble,126,744382,Vision
+2540,Marvel's Avengers Assemble,126,150223,Nick Fury
+2540,Marvel's Avengers Assemble,126,747085,Janet van Dyne / The Wasp
+2540,Marvel's Avengers Assemble,126,744405,Crossbones
+2540,Marvel's Avengers Assemble,126,746857,Skurge
+2540,Marvel's Avengers Assemble,126,644410,Agent Peggy Carter
+2540,Marvel's Avengers Assemble,126,740207,Red Guardian
+3193,Marvel's Hulk and the Agents of S.M.A.S.H.,52,167003,Skaar
+3193,Marvel's Hulk and the Agents of S.M.A.S.H.,52,167004,Bruce Banner / Hulk
+3193,Marvel's Hulk and the Agents of S.M.A.S.H.,52,167006,Bruce Banner / Hulk
+3193,Marvel's Hulk and the Agents of S.M.A.S.H.,52,167007,A-Bomb
+3193,Marvel's Hulk and the Agents of S.M.A.S.H.,52,167005,She-Hulk
+2476,Marvel's Guardians of the Galaxy,77,171911,Drax
+2476,Marvel's Guardians of the Galaxy,77,171915,Gamora
+2476,Marvel's Guardians of the Galaxy,77,171910,Rocket Raccoon
+2476,Marvel's Guardians of the Galaxy,77,171913,Groot
+2476,Marvel's Guardians of the Galaxy,77,171917,Peter Quill / Star-Lord
+25811,Marvel Future Avengers,39,467927,Makoto
+25811,Marvel Future Avengers,39,467928,Adi
+25811,Marvel Future Avengers,39,467929,Kuroe
+25811,Marvel Future Avengers,39,467930,Tony Stark / Iron Man
+25811,Marvel Future Avengers,39,467931,Janet van Dyne / The Wasp
+25811,Marvel Future Avengers,39,467932,Captain America
+25811,Marvel Future Avengers,39,467933,Bruce Banner / Hulk
+25811,Marvel Future Avengers,39,467934,Johann Schmidt/Red Skull
+25811,Marvel Future Avengers,39,467935,Thor
+21928,Marvel's Spider-Man,57,723508,Peter Parker / Spider-Man
+21142,Big Hero 6: The Series,67,343541,Aunt Cass
+21142,Big Hero 6: The Series,67,343544,Heathcliff
+21142,Big Hero 6: The Series,67,343542,Alistair Krei
+21142,Big Hero 6: The Series,67,343534,Hiro Hamada
+21142,Big Hero 6: The Series,67,343535,Baymax
+21142,Big Hero 6: The Series,67,343536,Honey Lemon
+21142,Big Hero 6: The Series,67,343537,GoGo Tomago
+21142,Big Hero 6: The Series,67,343538,Wasabi
+21142,Big Hero 6: The Series,67,343539,Fred
+38271,WHAT / IF,10,550194,Anne Montgomery
+38271,WHAT / IF,10,551091,Lisa
+38271,WHAT / IF,10,554092,Sean
+38271,WHAT / IF,10,628616,Todd Archer
+38271,WHAT / IF,10,628617,Angela Archer
+38271,WHAT / IF,10,628618,Marcos
+38271,WHAT / IF,10,628619,Dr. Ian Evans
+38271,WHAT / IF,10,628620,Avery Watkins
+38271,WHAT / IF,10,628623,Foster
+38271,WHAT / IF,10,628621,Cassidy Barrett
+38271,WHAT / IF,10,628622,Lionel
+40957,Marvel's M.O.D.O.K.,10,691837,M.O.D.O.K.
+40957,Marvel's M.O.D.O.K.,10,691838,Jodie
+40957,Marvel's M.O.D.O.K.,10,691839,Lou
+40957,Marvel's M.O.D.O.K.,10,691840,Melissa
+40957,Marvel's M.O.D.O.K.,10,840422,Monica
+40957,Marvel's M.O.D.O.K.,10,840423,Austin Van Der Sleet
+40957,Marvel's M.O.D.O.K.,10,840424,Super-Adaptoid
+40957,Marvel's M.O.D.O.K.,10,840425,Gary
+2074,Starman,22,125214,Paul Forrester
+2074,Starman,22,125215,Scott Hayden
+2074,Starman,22,125216,FSA Agent George Fox
+8466,Thor & Loki: Blood Brothers,4,203193,Loki
+8466,Thor & Loki: Blood Brothers,4,203194,Thor
+8466,Thor & Loki: Blood Brothers,4,203195,Sif
+26544,Marvel's Rocket & Groot,12,744893,Rocket Raccoon
+26544,Marvel's Rocket & Groot,12,744894,Groot
+29100,Marvel's Ant-Man Shorts,6,433481,Scott Lang / Ant-Man
+29100,Marvel's Ant-Man Shorts,6,433484,Janet van Dyne/Wasp
+37823,Marvel Rising: Initiation,6,544065,Gwen Stacy / Ghost Spider
+37823,Marvel Rising: Initiation,6,544071,Dante Pertuz / Inferno
+37823,Marvel Rising: Initiation,6,544066,Captain Marvel
+37823,Marvel Rising: Initiation,6,544067,Doreen Green / Squirrel Girl
+37823,Marvel Rising: Initiation,6,544070,Tippy Toe
+37823,Marvel Rising: Initiation,6,544068,Rayshaun Lucas / Patriot
+37823,Marvel Rising: Initiation,6,544072,America Chavez
+37823,Marvel Rising: Initiation,6,544069,Daisy Johnson / Quake
+37823,Marvel Rising: Initiation,6,544074,Lockjaw
+37823,Marvel Rising: Initiation,6,544073,Captain Marvel
+37823,Marvel Rising: Initiation,6,741011,Ironheart
+37823,Marvel Rising: Initiation,6,741023,Shuri
+33734,Marvel Super Hero Adventures,40,725712,Peter Parker / Spider-Man
+33734,Marvel Super Hero Adventures,40,725744,Bruce Banner / Hulk
+33734,Marvel Super Hero Adventures,40,725756,T'Challa / Black Panther
+33734,Marvel Super Hero Adventures,40,725753,Captain Marvel
+33734,Marvel Super Hero Adventures,40,725754,Captain America
+33734,Marvel Super Hero Adventures,40,725759,Captain Marvel
+33734,Marvel Super Hero Adventures,40,725713,Tony Stark / Iron Man
+33734,Marvel Super Hero Adventures,40,725723,Peter Parker / Spider-Man
+33734,Marvel Super Hero Adventures,40,725742,Scott Lang / Ant-Man
+33734,Marvel Super Hero Adventures,40,725760,Spider-Girl
+33734,Marvel Super Hero Adventures,40,725762,Gwen Stacy / Ghost Spider
+33734,Marvel Super Hero Adventures,40,725763,Janet van Dyne / The Wasp
+33734,Marvel Super Hero Adventures,40,725943,Prof. Reed Richards / Mister Fantastic
+33734,Marvel Super Hero Adventures,40,725944,Invisible Woman / Invisible Girl
+33734,Marvel Super Hero Adventures,40,725715,Thor
+33734,Marvel Super Hero Adventures,40,725758,Sam Wilson / Falcon
+33734,Marvel Super Hero Adventures,40,725789,Reptil
+33734,Marvel Super Hero Adventures,40,725916,Rocket Raccoon
+33734,Marvel Super Hero Adventures,40,725918,Groot
+33734,Marvel Super Hero Adventures,40,725921,Doctor Strange
+33734,Marvel Super Hero Adventures,40,725928,She-Hulk
+33734,Marvel Super Hero Adventures,40,725942,Ironheart
+16280,Marvel's Agents of S.H.I.E.L.D.: Double Agent,5,275625,Mastermind
+16280,Marvel's Agents of S.H.I.E.L.D.: Double Agent,5,275626,Dirk
+16280,Marvel's Agents of S.H.I.E.L.D.: Double Agent,5,275627,Sam
+16280,Marvel's Agents of S.H.I.E.L.D.: Double Agent,5,275628,Alex Mind
